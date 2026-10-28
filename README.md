@@ -2,7 +2,7 @@
 
 A comprehensive implementation of Agglomerative Hierarchical Clustering using Python, Scikit-learn, and SciPy, covering distance metrics, linkage criteria, dendrogram construction, cluster evaluation, and hierarchical cluster formation.
 
-## 1. Project Overview
+## 1. Overview
 
 Agglomerative Hierarchical Clustering is an unsupervised machine learning algorithm that builds a hierarchy of clusters using a bottom-up approach.
 
